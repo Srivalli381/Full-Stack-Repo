@@ -33,4 +33,8 @@ public class ReportGenerator
 	
 		System.out.println("ReportGenerator.Srivalli()");
 	}
+	
+	public void Sravani() {
+		System.out.println("ReportGenerator.Sravani()");
+	}
 }
